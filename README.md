@@ -8,8 +8,8 @@ Génial-O has been started with the objective to make your Discord servers safer
 <br>
 <br>
 Génial-Team => the developpers<br>
-Lead dev : Lynhe (me)<br>
-Second dev & Graphist : Marwan <br>
+Lead dev : <a href="https://github.com/LyneQ" target="_blank">Lynhe</a> (me)<br>
+Second dev & Graphist : <a href="https://github.com/marwank270" target="_blank">Marwan</a> <br>
 <img src="https://genialo.xyz/banner.png" alt="bot-banner" title="hello you" />
 
 <h4>*(merci à marwank270 de m'avoir autorisé a copy paste une partie de son readme oui j'ai pas d'originalité).</h4>
