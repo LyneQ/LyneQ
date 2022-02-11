@@ -12,7 +12,7 @@ Lead dev : Lynhe (me)<br>
 Second dev & Graphist : Marwan <br>
 <img src="https://genialo.xyz/banner.png" alt="bot-banner" title="hello you" />
 
-<h4>\*(merci à marwank270 de m'avoir autorisé a copy paste une partie de son readme oui j'ai pas d'originalité).</h4>
+<h4>*(merci à marwank270 de m'avoir autorisé a copy paste une partie de son readme oui j'ai pas d'originalité).</h4>
 
 <!--
 **LyneQ/LyneQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
