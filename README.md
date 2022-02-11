@@ -1,6 +1,6 @@
 ### bien le bonjour toi qui lit mon profil 👋
 
-voici mes projets 
+### voici mes projets 🗄 
 <hr/>
 
 Génial-O => Discord server moderation, easier than ever.
