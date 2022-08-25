@@ -4,13 +4,13 @@
 <hr/>
 
 Génial-O => Discord server moderation, easier than ever.
-Génial-O has been started with the objective to make your Discord servers safer easily, started on Discord.js v12 and it's currently being updated to Discord.js v13. The Génial-O project is currently online and available on <a href="https://genialo.xyz" alt="">Genialo.xyz</a> (more information available here).
+Génial-O has been started with the objective to make your Discord servers safer easily, started on Discord.js v12 and it's currently being updated to Discord.js v13. The Génial-O project is currently online and available on <a href="https://genialo.cc" alt="">Genialo.cc</a> (more information available here).
 <br>
 <br>
 Génial-Team => the developpers<br>
 Lead dev : <a href="https://github.com/LyneQ" target="_blank">Lynhe</a> (me)<br>
 Second dev & Graphist : <a href="https://github.com/marwank270" target="_blank">Marwan</a> <br>
-<!-- <img src="https://genialo.xyz/banner.png" alt="bot-banner" title="hello you" /> -->
+<img src="https://genialo.cc/public/new/genialo-banner.png" alt="bot-banner" title="hello you" />
 
 <h4>*(merci à marwank270 de m'avoir autorisé a copy paste une partie de son readme oui j'ai pas d'originalité).</h4>
 
