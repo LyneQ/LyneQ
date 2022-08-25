@@ -4,7 +4,7 @@
 <hr/>
 
 Génial-O => Discord server moderation, easier than ever.
-Génial-O has been started with the objective to make your Discord servers safer easily, started on Discord.js v12 and it's currently being updated to Discord.js v13. The Génial-O project is currently online and available on <a href="https://genialo.cc" alt="">Genialo.cc</a> (more information available here).
+Génial-O has been started with the objective to make your Discord servers safer easily, started on Discord.js v12 and updated to Discord.js v13. The Génial-O project is currently online and available on <a href="https://genialo.cc" alt="">Genialo.cc</a> (more information available here).
 <br>
 <br>
 Génial-Team => the developpers<br>
