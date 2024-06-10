@@ -1,4 +1,4 @@
-<h1 align="center">About me: </h1>
+<h1 align="center">About me </h1>
 
 <h3> Hello, my name is Lyne. <br/> 
 I am a beginner in web development, My first steps in web dev involved creating a pure JavaScript site about parkour.<br/> 
