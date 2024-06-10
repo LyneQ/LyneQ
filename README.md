@@ -18,7 +18,7 @@ Recently, I have seriously resumed learning web development languages </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=webstorm,mongodb,obsidian)](https://skillicons.dev)
 
-<h1> My projects </h1>
+<h1 align="center"> My projects </h1>
 
  <h3> Génial-O ► Discord server moderation, easier than ever. </h3> 
 
