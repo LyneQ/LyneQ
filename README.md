@@ -5,7 +5,6 @@ I am a beginner in web development, My first steps in web dev involved creating 
 Recently, I have seriously resumed learning web development languages </h3>
 
 
-<hr/>
 <h1 align="center"> My skills </h1>
 <h2> language </h2>
 
@@ -19,7 +18,6 @@ Recently, I have seriously resumed learning web development languages </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=webstorm,mongodb,obsidian)](https://skillicons.dev)
 
-<hr/>
 <h1> My projects </h1>
 
  <h3> Génial-O ► Discord server moderation, easier than ever. </h3> 
