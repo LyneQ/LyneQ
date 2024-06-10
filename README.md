@@ -6,15 +6,15 @@ Recently, I have seriously resumed learning web development languages </h3>
 
 
 <h1 align="center"> My skills </h1>
-<h2> language </h2>
+<h3> language </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=3)](https://skillicons.dev)
 
-<h2> framework </h2>
+<h3> framework </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nuxt,vue,discordjs)](https://skillicons.dev)
 
-<h2>My tools </h2>
+<h3>My tools </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=webstorm,mongodb,obsidian)](https://skillicons.dev)
 
