@@ -16,7 +16,7 @@ Recently, I have seriously resumed learning web development languages </h3>
 
 <h3>My tools </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=webstorm,mongodb,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=webstorm,mongodb)](https://skillicons.dev)
 
 <h1 align="center"> My projects </h1>
 
