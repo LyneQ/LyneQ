@@ -1,8 +1,8 @@
 <h1 align="center">About me </h1>
 
-<h3> Hello, my name is Lyne. <br/> 
-I am a beginner in web development, My first steps in web dev involved creating a pure JavaScript site about parkour.<br/> 
-Recently, I have seriously resumed learning web development languages </h3>
+ Hello, my name is Lyne. <br/> 
+<i>I am a beginner in web development, My first steps in web dev involved creating a pure JavaScript site about parkour.<br/> 
+Recently, I have seriously resumed learning web development languages</i>
 
 
 <h1 align="center"> My skills </h1>
@@ -16,7 +16,7 @@ Recently, I have seriously resumed learning web development languages </h3>
 
 <h3>My tools </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=webstorm,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=webstorm,mongodb,obsidian)](https://skillicons.dev)
 
 <h1 align="center"> My projects </h1>
 
