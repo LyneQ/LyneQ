@@ -1,8 +1,8 @@
 <h1 align="center">About me </h1>
 
  Hello, my name is Lyne. <br/> 
-<i>I am a beginner in web development, My first steps in web dev involved creating a pure JavaScript site about parkour.<br/> 
-Recently, I have seriously resumed learning web development languages</i>
+<i>I am a beginner in web development, currently learning at [BeCode](https://becode.org). <br/> 
+Happy to see my progress and find a job in the future</i>
 
 
 <h1 align="center"> My skills </h1>
