@@ -8,7 +8,7 @@ Happy to see my progress and find a job in the future</i>
 <h1 align="center"> My skills </h1>
 <h3> language </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts&perline=4)](https://skillicons.dev)
 
 <h3> framework </h2>
 
