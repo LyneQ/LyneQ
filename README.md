@@ -12,11 +12,15 @@ Happy to see my progress and find a job in the future</i>
 
 <h3> framework </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nuxt,vue,discordjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,vue,nuxt,discordjs)](https://skillicons.dev)
+
+<h3> database </h3>
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 <h3>My tools </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=webstorm,mongodb,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=webstorm,obsidian)](https://skillicons.dev)
 
 <h1 align="center"> My projects </h1>
 
