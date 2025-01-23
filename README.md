@@ -8,11 +8,11 @@ Happy to see my progress and find a job in the future</i>
 <h1 align="center"> My skills </h1>
 <h3> language </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php)](https://skillicons.dev)
 
 <h3> framework </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,vue,nuxt,discordjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,deno,vue,nuxt,react,next,discordjs)](https://skillicons.dev)
 
 <h3> database </h3>
 
@@ -20,7 +20,7 @@ Happy to see my progress and find a job in the future</i>
 
 <h3>My tools </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=webstorm,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=webstorm,phpstorm,obsidian)](https://skillicons.dev)
 
 <h1 align="center"> My projects </h1>
 
