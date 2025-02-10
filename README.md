@@ -12,7 +12,7 @@ Happy to see my progress and find a job in the future</i>
 
 <h3> framework </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,deno,vue,nuxt,react,next,discordjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,deno,vue,nuxt,react,next)](https://skillicons.dev)
 
 <h3> database </h3>
 
