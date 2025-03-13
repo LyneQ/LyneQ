@@ -1,37 +1,17 @@
-<h1 align="center">About me </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&duration=3500&pause=1500&color=4579E2&center=true&vCenter=true&width=435&lines=hi%2C+i'm+LyneQ;A+Full+Stack+developer)](https://git.io/typing-svg)
 
- Hello, my name is Lyne. <br/> 
-<i>I am a beginner in web development, currently learning at [BeCode](https://becode.org). <br/> 
-Happy to see my progress and find a job in the future</i>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyneq&theme=marko&show_icons=true&hide_border=true&count_private=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyneq&layout=compact&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center"> My skills </h1>
 <h3> language </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,html,css,sass)](https://skillicons.dev)
 
 <h3> framework </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,deno,vue,nuxt,react,next)](https://skillicons.dev)
 
-<h3> database </h3>
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
-
 <h3>My tools </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=webstorm,phpstorm,obsidian)](https://skillicons.dev)
-
-<h1 align="center"> My projects </h1>
-
- <h3> Génial-O ► Discord server moderation, easier than ever. </h3> 
-
-Génial-O has been started with the objective to make your Discord servers safer easily, started on Discord.js v12 and it's currently being updated to Discord.js v13. \
-This project is currently offline for a moment.
-
-[Génial-Team](https://github.com/Genial-Team) ► Members of the team that work on Génial-O
-* Lead dev : Lynhe (me)
-* co-developper  & Graphist : [marwank270](https://github.com/marwank270)
-  [![Image](https://i.goopics.net/4jweiz.png)](https://goopics.net/i/4jweiz)
-
-<h4 align="center"> This section was entirely inspired by the work of <a href="https://github.com/marwank270">marwank270</a> </h4>
