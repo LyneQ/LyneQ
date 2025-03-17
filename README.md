@@ -6,7 +6,7 @@
 <h1 align="center"> My skills </h1>
 <h3> language </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,php,html,css,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,php,html,css,sass)](https://skillicons.dev)
 
 <h3> framework </h2>
 
