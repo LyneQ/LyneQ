@@ -4,14 +4,20 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyneq&layout=compact&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center"> My skills </h1>
-<h3> language </h2>
+<h3> language </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,go,php,html,css,sass)](https://skillicons.dev)
 
-<h3> framework </h2>
+<h3> framework </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,deno,vue,nuxt,react,next)](https://skillicons.dev)
 
-<h3>My tools </h2>
+<h3>My tools </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=webstorm,phpstorm,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,obsidian)](https://skillicons.dev)
+
+
+<h3>Operating system </h3>
+
+[![My Skills](https://skillicons.dev/icons?i=arch,debian)](https://skillicons.dev)
+
